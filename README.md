@@ -26,7 +26,8 @@ Ensure you have the following dependencies installed:
 - BeautifulSoup (`bs4`)
 - Selenium
 
-Conclusion 🌐📊
+## Conclusion 🌐📊
+
 Automating the process of gathering exhibition data has never been easier. With the combination of BeautifulSoup and Selenium, this project provides an insightful example of how to extract information from exhibition websites.<br>
 Whether you're an event enthusiast or a web scraping enthusiast, this repository serves as a valuable resource for your data collection needs.
 
